@@ -1,1 +1,50 @@
 
+Blogs 
+https://scalefactory.com/blog/2021/01/31/how-i-passed-the-aws-security-specialty-exam/
+
+Exam Guide 
+https://d1.awsstatic.com/training-and-certification/docs-security-spec/AWS-Certified-Security-Specialty_Exam-Guide.pdf
+
+Sample Questions
+https://d1.awsstatic.com/training-and-certification/docs-security-spec/AWS-Certified-Security-Speciality_Sample-Questions.pdf
+
+https://explore.skillbuilder.aws/learn/mycourses
+
+Videos to go through - Helpful Channels
+https://www.scalefactory.com/events/webinars/2020/07/30/architecture-for-security-on-aws/
+Cloud with Raj - https://cloudwithraj.com/#003a1b22-c0cc-4e5a-b106-48a145d13d0d
+
+Whitepapers - 
+
+
+Individual Topics to cover 
+Management and Governance:
+   AWS Audit Manager
+   AWS CloudTrail
+   Amazon CloudWatch
+   AWS Config
+   AWS Organizations
+   AWS Systems Manager
+   AWS Trusted Advisor
+Networking and Content Delivery:
+   Amazon Detective
+   AWS Firewall Manager
+   AWS Network Firewall
+   AWS Security Hub
+   AWS Shield
+  Amazon VPC
+  o VPC endpoints
+  o Network ACLs
+  o Security groups
+   AWS WAF
+ Security, Identity, and Compliance:
+   AWS Certificate Manager (ACM)
+   AWS CloudHSM
+   AWS Directory Service
+   Amazon GuardDuty
+   AWS Identity and Access Management (IAM)
+   Amazon Inspector
+   AWS Key Management Service (AWS KMS)
+   Amazon Macie
+   AWS Single Sign-On
+  
